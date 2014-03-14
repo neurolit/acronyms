@@ -6,7 +6,7 @@ function AcronymsSearchCtrl($scope, $http) {
     $scope.acronyms = [];
 
     $http.get('data/list.json').success(function (data) {
-        $scope.acronyms = data.sort(function (a, b) { return a.id < b.id; });
+        $scope.acronyms = data;
     });
 
 
