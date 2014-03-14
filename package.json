@@ -1,0 +1,12 @@
+{
+  "name": "acronymesInria",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt-jslint": "~1.0.0",
+    "grunt": "~0.4.1",
+    "assemble": "~0.4.5"
+  },
+  "scripts": {
+    "test": "grunt test --verbose"
+  }
+}
