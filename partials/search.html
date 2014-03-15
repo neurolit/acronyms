@@ -1,20 +1,21 @@
 <div id="body_container" class="container">
 
-    <p class="text-center lead">Les acronymes d'Inria</p>
-
-    <br /> <br />
-    <form novalidate class="simple-form">
-      Filtrez : <input type="text" ng-model="filter.value" /><br />
-    </form>
-    <br />
-
-    <dl>
-        <dt ng-repeat-start="acronym in getFilteredAcronyms()">
-            {{acronym.id}}
-        </dt>
-        <dd ng-repeat-end>
-            {{acronym.value}}
-        </dd>
-    </dl>
+    <div class="row">
+        <div class="col-md-3">
+            <form novalidate class="simple-form">
+            Filtrez : <input type="text" ng-model="filter.value" /><br />
+            </form>
+        </div>
+        <div class="offset-md-1 col-md-8">
+            <dl>
+                <dt ng-repeat-start="acronym in getFilteredAcronyms()">
+                    {{acronym.id}}
+                </dt>
+                <dd ng-repeat-end>
+                    {{acronym.value}}
+                </dd>
+            </dl>
+        </div>
+    </div>
 
 </div><!-- container -->

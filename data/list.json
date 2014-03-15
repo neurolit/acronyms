@@ -1,0 +1,914 @@
+[
+    {
+        "id": "AAR",
+        "value": "Autorisation administrative de recrutement\n"
+    },
+    {
+        "id": "ACET",
+        "value": "Agent contractuel sur emploi temporaire (<10mois)\n"
+    },
+    {
+        "id": "ACMO",
+        "value": "Agent chargé de la mise en œuvre des mesures d'hygiène et sécurité (ancien terme)\nNouveau terme: Assistant de Prévention\n\n"
+    },
+    {
+        "id": "ADT",
+        "value": "Actions de Développement Technologique\n"
+    },
+    {
+        "id": "AEn",
+        "value": "Action d'envergure\n"
+    },
+    {
+        "id": "AERES",
+        "value": "Agence d'évaluation de la recherche et de l'enseignement supérieur \n"
+    },
+    {
+        "id": "AER",
+        "value": "assistantes d’équipe projet Inria\n"
+    },
+    {
+        "id": "AEx",
+        "value": "Action exploratoire\n"
+    },
+    {
+        "id": "AGOS",
+        "value": "(AGOS) Association pour la gestion des Oeuvres Sociales\nComité d'entreprise INRIA\n"
+    },
+    {
+        "id": "AI",
+        "value": "Assistant Ingénieur\n"
+    },
+    {
+        "id": "AJTP1",
+        "value": "Adjoint technique principal de la recherche, 1ère classe\n"
+    },
+    {
+        "id": "AJTP2",
+        "value": "Adjoint technique principal de la recherche, 2ème classe\n"
+    },
+    {
+        "id": "ANR",
+        "value": "Agence nationale de la recherche\n"
+    },
+    {
+        "id": "API",
+        "value": "Accompagnement du Parcours Individuel\n"
+    },
+    {
+        "id": "API\t",
+        "value": "Application Programming Interface\n(Domaine Développement)\n"
+    },
+    {
+        "id": "ARC",
+        "value": "Actions de Recherche Collaborative\n"
+    },
+    {
+        "id": "BAP",
+        "value": "Branche d’activité professionnelle \n(Domaine RH)\n"
+    },
+    {
+        "id": "BIL",
+        "value": "Base Information Logiciel \n(Domaine SI Inria)\n"
+    },
+    {
+        "id": "BO",
+        "value": "Business Objet\n"
+    },
+    {
+        "id": "CASA",
+        "value": "Application de gestion des congés\n(Domaine SI RH)\n"
+    },
+    {
+        "id": "CCRRDT",
+        "value": "Comité consultatif régional pour la recherche et le développement technologique\n"
+    },
+    {
+        "id": "CDT ",
+        "value": "Commission de développement technologique\n"
+    },
+    {
+        "id": "CRI",
+        "value": "Centre de recherche Inria\n"
+    },
+    {
+        "id": "CR",
+        "value": "Corps de Chargé de recherche\nCompte Rendu\n"
+    },
+    {
+        "id": "CE",
+        "value": "Commission d'évaluation\n"
+    },
+    {
+        "id": "CERNA",
+        "value": "Commission d'éthique Allistene\n"
+    },
+    {
+        "id": "CS",
+        "value": "Conseil scientifique\n"
+    },
+    {
+        "id": "CLHSCT",
+        "value": "Comité local hygiène sécurité et conditions de travail\n"
+    },
+    {
+        "id": "CNHSCT",
+        "value": "Comité national hygiène sécurité et conditions de travail\n"
+    },
+    {
+        "id": "COBRA",
+        "value": "Comité des brevets à analyser\n"
+    },
+    {
+        "id": "Cocon",
+        "value": "Comité de concertation\n"
+    },
+    {
+        "id": "COERL",
+        "value": "Comité opérationnel éthique et enjeux légaux\n"
+    },
+    {
+        "id": "COM",
+        "value": "Contrat d'objectifs et de moyens\n"
+    },
+    {
+        "id": "Comdir",
+        "value": "Comité de direction\n"
+    },
+    {
+        "id": "COPAR",
+        "value": "Contrôle partenarial Centre de recherche - Agence comptable\n"
+    },
+    {
+        "id": "CORDI",
+        "value": "Contrat de recherche doctorale Inria\n"
+    },
+    {
+        "id": "CORDI-S",
+        "value": "Contrat de recherche doctorale Inria sur subventions\n"
+    },
+    {
+        "id": "CGL",
+        "value": "(AGOS) Comité de Gestion Locale\n"
+    },
+    {
+        "id": "Cofors",
+        "value": "Correspondants Formation des centres\n"
+    },
+    {
+        "id": "COSI",
+        "value": "Commission de réflexion sur l’Organisation des activités de Support Informatique\nCommission qui a travaillé entre juin 2006 et février 2007. L'organisation actuelle de la DSI est issue des travaux de cette commission.\n"
+    },
+    {
+        "id": "CSSI",
+        "value": "Correspondant de la Sécurité des Systèmes d'Information\n"
+    },
+    {
+        "id": "COSS",
+        "value": "Comité d'orientations stratégiques et de suivi du système d’information\nLes missions du COSS sont :\n   * d'élaborer le schéma d'orientation du système d'information (SOSI),\n   * de suivre les chantiers du SI.\n"
+    },
+    {
+        "id": "COSS FIRH",
+        "value": "COSS Finances et ressources humaines\n(Domaine Direction de Systèmes d'Information)\n"
+    },
+    {
+        "id": "COSS INFRA",
+        "value": "COSS Infrastructures\n(Domaine Direction de Systèmes d'Information)\n"
+    },
+    {
+        "id": "COST",
+        "value": "Conseil d'Orientation Scientifique et Technologique \n"
+    },
+    {
+        "id": "CP",
+        "value": "Comité des projets\n"
+    },
+    {
+        "id": "CPPI",
+        "value": "Correspondant Propriété Intellectuelle\n(Domaine DTI)\n"
+    },
+    {
+        "id": "CR",
+        "value": "Chargé de recherche\n(Domaine RH)\n\nCentre de Recherche Inria (Dénomination incomplète) -> CRI\n"
+    },
+    {
+        "id": "CRI\t",
+        "value": "Centre de Recherche Inria\n"
+    },
+    {
+        "id": "CR1",
+        "value": "Chargé de recherche, 1ère classe\n(Domaine RH)\n"
+    },
+    {
+        "id": "CR2",
+        "value": "Chargé de recherche, 2ème classe\n(Domaine RH)\n"
+    },
+    {
+        "id": "CS",
+        "value": "Conseil scientifique\n"
+    },
+    {
+        "id": "CSATT",
+        "value": "Comité de suivi des actions de transfert\nComité de suivi des actions de transferts technologiques\n"
+    },
+    {
+        "id": "CTI",
+        "value": "Comité technique Inria\n"
+    },
+    {
+        "id": "CTP",
+        "value": "Comité technique paritaire (remplacé par CTI)\n"
+    },
+    {
+        "id": "CUMI ",
+        "value": "Comité des Utilisateurs de Moyens Informatiques\n"
+    },
+    {
+        "id": "CUMIR",
+        "value": "Comité des Utilisateurs de Moyens Informatiques Recherche\nVoir aussi CUMI, CUMIS\n"
+    },
+    {
+        "id": "CUMIS",
+        "value": "Comité des Utilisateurs de Moyens Informatiques pour les Services\nVoir aussi CUMI, CUMIR\n"
+    },
+    {
+        "id": "D2T",
+        "value": "Direction du développement technologique\n"
+    },
+    {
+        "id": "DA",
+        "value": "Demande d'achat\n"
+    },
+    {
+        "id": "DAC",
+        "value": "Délégué à l'administration du centre\n"
+    },
+    {
+        "id": "DAS",
+        "value": "Délégué à l'administration du siège\n"
+    },
+    {
+        "id": "DAF",
+        "value": "Direction des Affaires financières (remplacé par DAFP)\n"
+    },
+    {
+        "id": "DAFP",
+        "value": "Direction des affaires administratives, financières et patrimoniales\n"
+    },
+    {
+        "id": "DCR",
+        "value": "Directeur de centre de recherche\n"
+    },
+    {
+        "id": "DGA",
+        "value": "Directeur général adjoint\n"
+    },
+    {
+        "id": "DGARS",
+        "value": "Délégué général à l’administration des ressources et des services\n"
+    },
+    {
+        "id": "DGRTI",
+        "value": "Délégué général à la recherche et au transfert pour l’innovation\n"
+    },
+    {
+        "id": "DirCom",
+        "value": "Direction de la communication\n"
+    },
+    {
+        "id": "DM",
+        "value": "Décision modificative (Domaine budgétaire)\n"
+    },
+    {
+        "id": "DPE",
+        "value": "Direction des partenariats Européen\n"
+    },
+    {
+        "id": "DR",
+        "value": "Direction de la recherche\nDirecteur de la recherche\nCorps de Directeur de Recherche\n"
+    },
+    {
+        "id": "DR0",
+        "value": "Directeur de recherche, classe exceptionnelle\n"
+    },
+    {
+        "id": "DR1",
+        "value": "Directeur de recherche, 1ère classe\n"
+    },
+    {
+        "id": "DR2",
+        "value": "Directeur de recherche, 2ème classe\n"
+    },
+    {
+        "id": "DRH",
+        "value": "Direction des ressources humaines\n"
+    },
+    {
+        "id": "DRI",
+        "value": "Direction des relations internationales\n"
+    },
+    {
+        "id": "DS",
+        "value": "Délégué scientifique\n"
+    },
+    {
+        "id": "DSA",
+        "value": "Directeur scientifique Adjoint\n"
+    },
+    {
+        "id": "DSI",
+        "value": "Direction des systèmes d'information\n"
+    },
+    {
+        "id": "DTI",
+        "value": "Direction du transfert et de l'innovation\n"
+    },
+    {
+        "id": "ETP",
+        "value": "(RH) Equivalent Temps Plein\n"
+    },
+    {
+        "id": "ETPT",
+        "value": "(RH) Equivalent Temps Plein Travaillé\n"
+    },
+    {
+        "id": "EAA",
+        "value": "Voir EAAEC\n"
+    },
+    {
+        "id": "EAAEC",
+        "value": "Entretient Annuel d'Acitivité et Evolution de Compétence \n"
+    },
+    {
+        "id": "EIT",
+        "value": "European Institute of Innovation and Technology\n"
+    },
+    {
+        "id": "EOMD",
+        "value": "Entretiens objectifs-moyens des directions (EOMD-PEC)\n"
+    },
+    {
+        "id": "EPC",
+        "value": "Equipe-projet commune\n"
+    },
+    {
+        "id": "Equipex",
+        "value": "Equipement d'Excellence\n"
+    },
+    {
+        "id": "ERR",
+        "value": "Etablissement à régime restrictif\n"
+    },
+    {
+        "id": "ETP",
+        "value": "Equivalent temps plein\n"
+    },
+    {
+        "id": "ENS",
+        "value": "(Externe) Ecole Normale Superieure\n"
+    },
+    {
+        "id": "EPI",
+        "value": "Équipe projet INRIA\n"
+    },
+    {
+        "id": "ERC",
+        "value": "(Externe) European Research Council\n"
+    },
+    {
+        "id": "ET",
+        "value": "(DSI) Équipe transversale\n"
+    },
+    {
+        "id": "EPIBUD",
+        "value": "Equipe Projet Inria BUDget\n"
+    },
+    {
+        "id": "EPST",
+        "value": "Établissement public à caractère scientifique et technologique\n"
+    },
+    {
+        "id": "EGIDE",
+        "value": "Association: opérateur français de mobilité internationale, utilisé par l’INRIA pour indemniser \nou gratifier les étrangers accueillis au sein des équipes. \n"
+    },
+    {
+        "id": "FacWeb",
+        "value": "Outil de gestion des feuilles de temps (pour les contrats européens)\n"
+    },
+    {
+        "id": "FCS",
+        "value": "Fondation de coopération scientifique\n"
+    },
+    {
+        "id": "FOMI",
+        "value": "Fonctions ouvertes à la mobilité interne\n"
+    },
+    {
+        "id": "FRM",
+        "value": "Fonds de ressources mutualisé (national ou local)\n"
+    },
+    {
+        "id": "FIRH",
+        "value": "FInances, Ressources Humaines\n"
+    },
+    {
+        "id": "FSD",
+        "value": "Fonctionnaire Sécurité Défense\n"
+    },
+    {
+        "id": "GASPER",
+        "value": "Outil de gestion des demandes d’accueil de personnels étrangers\n"
+    },
+    {
+        "id": "GédéI",
+        "value": "Outil de gestion des décisions Inria\n"
+    },
+    {
+        "id": "GIS",
+        "value": "Groupement d'intérêt scientifique\n"
+    },
+    {
+        "id": "GRA",
+        "value": "Grenoble – Rhône-Alpes\n"
+    },
+    {
+        "id": "GCREHO",
+        "value": "Gestion ... REservations HOtellières\n"
+    },
+    {
+        "id": "GEF",
+        "value": "Outil de Gestion des EFfectifs (logiciel RH)\n"
+    },
+    {
+        "id": "GFD",
+        "value": "Gestion des Frais de Déplacement\n"
+    },
+    {
+        "id": "GIDF",
+        "value": "Gestion des IDentiFiants\nService d'attribution d'un identifiant INRIA unique.\n"
+    },
+    {
+        "id": "GT",
+        "value": "(DSI & autre) Groupe de Travail\n"
+    },
+    {
+        "id": "GIP",
+        "value": "Groupement d'intérêt public\n"
+    },
+    {
+        "id": "GIS",
+        "value": "Groupement d’intérêt scientifique\n"
+    },
+    {
+        "id": "HAL",
+        "value": "Serveur national d'arvhives ouvertes: Hyper Article en Ligne\n"
+    },
+    {
+        "id": "HDR",
+        "value": "Habilitation à diriger des recherches\n"
+    },
+    {
+        "id": "IGC",
+        "value": "Infrastructure de Gestion de Clés\nAcronyme anglais : PKI Public Key Infrastructure\n"
+    },
+    {
+        "id": "IST",
+        "value": "Ensemble des services concernant l'Information Scientique et Technique.\nRegroupe l'ensemble des services documentation\n"
+    },
+    {
+        "id": "IJD",
+        "value": "Ingénieur Jeune Diplômé\n"
+    },
+    {
+        "id": "IA",
+        "value": "Ingénieur Associé (Obsolète: voir IJD)\nInvestissements d'avenir\n"
+    },
+    {
+        "id": "Idex",
+        "value": "Initiative d'excellence\n"
+    },
+    {
+        "id": "IE",
+        "value": "Ingénieur expert\nIngénieur d'étude\n"
+    },
+    {
+        "id": "IE0",
+        "value": "Ingénieur d’étude, classe exceptionnelle\n"
+    },
+    {
+        "id": "IE1",
+        "value": "Ingénieur d’étude, 1ère classe\n"
+    },
+    {
+        "id": "IE2",
+        "value": "Ingénieur d’étude, 2ème classe\n"
+    },
+    {
+        "id": "IHU",
+        "value": "Institut hospitalo-universitaire\n"
+    },
+    {
+        "id": "IRSES",
+        "value": "Contexe: DPE - Programme Européen\nInternational Research Staff Exchange Scheme\n"
+    },
+    {
+        "id": "IGAENR",
+        "value": "Inspection Générale de l'Administration de l'éducation Nationale et de la Recherche\n"
+    },
+    {
+        "id": "IIF",
+        "value": "Contexte: DPE - Programme Européen - Bourse individuelle\nInternational Incoming Fellowship\n"
+    },
+    {
+        "id": "I-Lab",
+        "value": "Laboratoire commun Inria-PME\n"
+    },
+    {
+        "id": "ILAB\t",
+        "value": "Voir I-Lab\n"
+    },
+    {
+        "id": "Inter-CUMI",
+        "value": "Coordination des CUMIS\n"
+    },
+    {
+        "id": "IOF",
+        "value": "Contexte: DPE - Programme Européen - Bourse individuelle\nInternational Outgoing Fellowship\n"
+    },
+    {
+        "id": "IR\t",
+        "value": "Ingénieur Recherche\n"
+    },
+    {
+        "id": "IR0",
+        "value": "Ingénieur de recherche, classe exceptionnelle\n"
+    },
+    {
+        "id": "IR1",
+        "value": "Ingénieur de recherche, 1ère classe\n"
+    },
+    {
+        "id": "IR2",
+        "value": "Ingénieur de recherche, 2ème classe\n"
+    },
+    {
+        "id": "IRT",
+        "value": "Institut de recherche technologique\n"
+    },
+    {
+        "id": "IS",
+        "value": "Ingénieur spécialiste (poste ingénieur senior dans les développements)\n"
+    },
+    {
+        "id": "ISFIC",
+        "value": "Indemnité spécifique pour fonction d'intérêt collectif\n"
+    },
+    {
+        "id": "IST",
+        "value": "Information scientifique et technique (service des centres de recherche)\n"
+    },
+    {
+        "id": "ITA",
+        "value": "Ingénieurs, Techniciens et Administratifs\n"
+    },
+    {
+        "id": "ITI",
+        "value": "Ingénieur transfert et innovation\n"
+    },
+    {
+        "id": "IziGFD",
+        "value": "Outil de demande de missions\n"
+    },
+    {
+        "id": "KIC",
+        "value": "Knowledge and Innovation Communities\n"
+    },
+    {
+        "id": "Labex",
+        "value": "Laboratoire d'excellence\n"
+    },
+    {
+        "id": "LNE",
+        "value": "Lille – Nord Europe\n"
+    },
+    {
+        "id": "LOLF",
+        "value": "Loi organique relative aux lois de finances\n"
+    },
+    {
+        "id": "MSD",
+        "value": "Mission de Sécurité et de Défense\n"
+    },
+    {
+        "id": "NGE",
+        "value": "Nancy – Grand-Est\n"
+    },
+    {
+        "id": "NTICE",
+        "value": "Nouvelles technologies de l’information et de la communication dans l’enseignement\n"
+    },
+    {
+        "id": "ODL",
+        "value": "Opération de développement logiciel\n"
+    },
+    {
+        "id": "OIP",
+        "value": "Opération d'investissement pluriannuelle\n"
+    },
+    {
+        "id": "OPSF",
+        "value": "Logiciel de gestion budgétaire (Editeur : Oracle)\n"
+    },
+    {
+        "id": "ORELI",
+        "value": "Outil de réservation des billets de transport\n"
+    },
+    {
+        "id": "OS",
+        "value": "Organisations syndicales\n"
+    },
+    {
+        "id": "OST",
+        "value": "Observatoire des sciences et des techniques\n"
+    },
+    {
+        "id": "OIP",
+        "value": "Opération Investissement Programmée / Pluriannuelle\n"
+    },
+    {
+        "id": "PCA",
+        "value": "Produits constatés d'avance\n"
+    },
+    {
+        "id": "PCRD",
+        "value": "Programme cadre de recherche et développement (programme européen)\n"
+    },
+    {
+        "id": "PCRDT",
+        "value": "Programme-cadre de recherche et développement technologique (programme européen)\n"
+    },
+    {
+        "id": "PEC",
+        "value": "Plan d'emplois et de compétences\n"
+    },
+    {
+        "id": "PEDR",
+        "value": "Prime d’encadrement doctorale et de recherche\n"
+    },
+    {
+        "id": "PES",
+        "value": "Prime d'excellence scientifique\n"
+    },
+    {
+        "id": "PFI",
+        "value": "Prime de fonction informatique\n"
+    },
+    {
+        "id": "PIAF",
+        "value": "Plan d'intégration et d'adaptation à la fonction\n"
+    },
+    {
+        "id": "PIPOL",
+        "value": "Plateforme de portage matériel (en voie de disparition)\n"
+    },
+    {
+        "id": "PPRS",
+        "value": "Prime de participation à la recherche scientifique\n"
+    },
+    {
+        "id": "PRES",
+        "value": "Pôle de recherche et d'enseignement supérieur\n"
+    },
+    {
+        "id": "PRO",
+        "value": "Paris – Rocquencourt\n"
+    },
+    {
+        "id": "PSATT",
+        "value": "Programme de suivi des actions de transfert\n"
+    },
+    {
+        "id": "PR",
+        "value": "Professeur des universités\n"
+    },
+    {
+        "id": "PLACEBO",
+        "value": "Prestation d’aide à La création de requêtes BO pour le domaine recettes \n"
+    },
+    {
+        "id": "R2I",
+        "value": "Rencontre Inria - Industrie\n"
+    },
+    {
+        "id": "RAWEB",
+        "value": "Annexe du Rapport d'activité Inria constitué du rapport de chaque équipe de recherche\nSite des rapports d'activités et publications des chercheurs Inria\n"
+    },
+    {
+        "id": "RBA",
+        "value": "Rennes – Bretagne Atlantique\n"
+    },
+    {
+        "id": "REP",
+        "value": "Responsable d'équipe-projet\n"
+    },
+    {
+        "id": "REV",
+        "value": "Relations extérieures et valorisation (service des centres de recherche)\n"
+    },
+    {
+        "id": "RGPP",
+        "value": "Révision Générale des Politiques Publiques\n"
+    },
+    {
+        "id": "RIC",
+        "value": "Responsable Informatique de Centre\n"
+    },
+    {
+        "id": "RMI",
+        "value": "Responsable des moyens informatiques (ancien terme)\nVoir RSIC\n"
+    },
+    {
+        "id": "RSIC",
+        "value": "Responsable Services Informatique de Centre \n"
+    },
+    {
+        "id": "SAER",
+        "value": "Service des assistantes des équipes de recherche\n"
+    },
+    {
+        "id": "SAM",
+        "value": "Sophia Antipolis - Méditerranée\n"
+    },
+    {
+        "id": "SCSP",
+        "value": "Subventions pour charge de service public\n"
+    },
+    {
+        "id": "SED",
+        "value": "Service d’expérimentation et de développement\n"
+    },
+    {
+        "id": "SG",
+        "value": "Services généraux\n"
+    },
+    {
+        "id": "SI",
+        "value": "Système d'Information\n"
+    },
+    {
+        "id": "SIC",
+        "value": "Service informatique du centre\n"
+    },
+    {
+        "id": "SIF",
+        "value": "Saclay – Île-de-France\n"
+    },
+    {
+        "id": "SAF",
+        "value": "Service Administratif et Financier\n"
+    },
+    {
+        "id": "SBT",
+        "value": "Self Booking Tool: logiciel de réservation d'hotel marché Inria\n"
+    },
+    {
+        "id": "SMS",
+        "value": "Service des manifestations scientifiques (au centre de Bordeaux – Sud-Ouest)\n"
+    },
+    {
+        "id": "SPSI",
+        "value": "Schéma pluriannuel de stratégie immobilière\n"
+    },
+    {
+        "id": "SRESR",
+        "value": "Stratégie régionale ESR\n"
+    },
+    {
+        "id": "SRH",
+        "value": "Service des Ressources Humaines\n"
+    },
+    {
+        "id": "SIC",
+        "value": "Service informatique de Centre (voir aussi SMI)\n"
+    },
+    {
+        "id": "SMI",
+        "value": "Service Moyens Informatique (ancien terme)\nVoir SIC\n"
+    },
+    {
+        "id": "SUDSI",
+        "value": "        Service Urbanisation et Développement du Système d'Information\n"
+    },
+    {
+        "id": "SESI",
+        "value": "Service d'Exploitation du Système d'Information\n"
+    },
+    {
+        "id": "PRA",
+        "value": "Plan de Reprise d'Activité\n"
+    },
+    {
+        "id": "PCA",
+        "value": "Plan de Continuité d'Activité\n"
+    },
+    {
+        "id": "CERT",
+        "value": "Computer Emergency Response Team\n"
+    },
+    {
+        "id": "OPSF",
+        "value": "(Application de gestion financière)\n"
+    },
+    {
+        "id": "PEC",
+        "value": "Plan Emplois Compétences\n"
+    },
+    {
+        "id": "PhD",
+        "value": "Abbreviation anglophone signifiant Doctorat\n"
+    },
+    {
+        "id": "PPRS",
+        "value": "Prime de Participation a la Recherche Scientifique\n"
+    },
+    {
+        "id": "PFI",
+        "value": "Prime de Fonction Informatique\n"
+    },
+    {
+        "id": "RA",
+        "value": "Voir RAWEB\n"
+    },
+    {
+        "id": "RAWEB",
+        "value": "Rapport d'Activité INRIA\n"
+    },
+    {
+        "id": "RR",
+        "value": "Rapport de recherche: Collection éditoriale INRIA\n"
+    },
+    {
+        "id": "RT",
+        "value": "Rapport technique: Collection éditoriale INRIA\n"
+    },
+    {
+        "id": "SAFIRH",
+        "value": "Service informatique de la DSI: Service Applications Finances et RH\n"
+    },
+    {
+        "id": "SEMIR",
+        "value": "Service informatique Sophia Antipolis: Service de Support, Exploitation, Maintenance Informatique et Réseaux \n"
+    },
+    {
+        "id": "SED",
+        "value": "Services d'Expérimentation et de Développement\n"
+    },
+    {
+        "id": "SIRH \t",
+        "value": "Système d'information ressources humaines\t\n"
+    },
+    {
+        "id": "SIS",
+        "value": "Système d'information scientifique\n"
+    },
+    {
+        "id": "SOSI",
+        "value": "(DSI) Schéma d'Orientation du Système d'Information\n"
+    },
+    {
+        "id": "TRE",
+        "value": "Technicien de la recherche, classe exceptionnelle\n"
+    },
+    {
+        "id": "TRN",
+        "value": "Technicien de la recherche, classe normale\n"
+    },
+    {
+        "id": "TRS",
+        "value": "Technicien de la recherche, classe supérieure\n"
+    },
+    {
+        "id": "TICE",
+        "value": "Technologies de l’information et de la communication dans l’enseignement\n"
+    },
+    {
+        "id": "UMR",
+        "value": "Unité mixte de recherche\n"
+    },
+    {
+        "id": "VPN",
+        "value": "Virtual Private Network\n"
+    },
+    {
+        "id": "UEB",
+        "value": "Université européenne de Bretagne\n"
+    },
+    {
+        "id": "VPCP",
+        "value": "Vice-président du comité des projets\n"
+    },
+    {
+        "id": "ZRR",
+        "value": "Zones à Régime Restrictif\n\n"
+    }
+]
